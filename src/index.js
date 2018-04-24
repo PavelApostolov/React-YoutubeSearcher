@@ -5,8 +5,6 @@ import YTSearch from 'youtube-api-search';
 import SearchBar from './components/SearchBar';
 import VideoList from './components/VideoList';
 import VideoDetail from './components/VideoDetail';
-// import { Provider } from 'react-redux';
-// import { createStore, applyMiddleware } from 'redux';
 
 const API_KEY = 'AIzaSyCHx0KE7a-gfTlSKJQya__AvfBV2lfLmiE';
 
